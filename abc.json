@@ -1,0 +1,14 @@
+{
+    "name": "scrollspy",
+    "version": "1.0",
+    "desc": "",
+    "cover": "",
+    "tag":"滚动监听",
+    "author": {
+        "name": "自寒",
+        "email": "zihan.yx@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
